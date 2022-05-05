@@ -1,0 +1,22 @@
+{
+  "name": "a00",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://karengu0: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@github.com/comp426-2022-spring/a00-karengu0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a00-karengu0/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a00-karengu0#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
